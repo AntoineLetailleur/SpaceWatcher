@@ -3,7 +3,8 @@ SpaceWatcher_back/obj/
 SpaceWatcher_front/bin/
 SpaceWatcher_front/obj/
 
-.env.dev
+SpaceWatcher_back/.env.*
+SpaceWatcher_back/data/
 appsettings.Development.json
 appsettings.json
 Properties/
